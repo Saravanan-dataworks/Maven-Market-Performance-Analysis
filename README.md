@@ -28,6 +28,11 @@ This Power BI dashboard provides a comprehensive analysis of Maven Market's perf
 
 ---
 
+## 📷 Dashboard Preview
+![Maven Market Performance Dashboard](https://github.com/Saravanan-dataworks/Maven-Market-Performance-Analysis/blob/main/Dashboard%20Preview.jpg)
+
+---
+
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**
 - **Data Modeling:** Relationships between product, store, and transaction tables.
